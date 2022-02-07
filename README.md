@@ -9,12 +9,12 @@ Das Spiel Kalah ist ein Brettspiel. Das Ziel der Arbeit besteht in der Implemtie
 Zunächst sollte das Projekt geklont werden. etc.  
 
 ### Spielen
-Das Mühle-Spiel kann über das Notebook `Kalah_Game.ipynb` gestartet werden. (folgt noch)
+Das Kalah-Spiel kann über das Notebook `Kalah_Game.ipynb` gestartet werden. (folgt noch)
 
 ### Lesen und Verstehen
 Zum Nachvollziehen der Anwendung ist das Durcharbeiten in folgender Reihenfolge sinnvoll:
 
-1. `Muehle_Classes.ipynb`
+1. `Classes.ipynb`
 2. ...
 
 
