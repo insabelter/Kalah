@@ -1,0 +1,102 @@
+<link href='http://fonts.googleapis.com/css?family=Alegreya+Sans:100,300,400,500,700,800,900,100italic,300italic,400italic,500italic,700italic,800italic,900italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Arvo:400,700,400italic' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=PT+Mono' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=Philosopher:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+
+<style>
+
+@font-face {
+    font-family: "Computer Modern";
+    src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
+}
+
+.container { width: 100% }
+
+/* Formatting for header cells */
+.text_cell_render h1 {
+    font-family: 'Philosopher';
+    font-weight: 600;
+    font-size: 2.2em;
+    line-height: 100%;
+    color: rgb(0, 80, 120);
+    margin-bottom: 0.1em;
+    margin-top: 0.1em;
+    display: block;
+}	
+.text_cell_render h2 {
+    font-family: 'Philosopher';
+    font-weight: 400;
+    font-size: 1.8em;
+    line-height: 100%;
+    color: rgb(0, 80, 120);
+    margin-bottom: 0.1em;
+    margin-top: 0.1em;
+    display: block;
+}	
+
+.text_cell_render h3 {
+    font-family: 'Philosopher';
+    margin-top:12px;
+    margin-bottom: 3px;
+    font-style: italic;
+    color: rgb(0, 100, 132);
+}
+
+.text_cell_render h4 {
+    font-family: 'Philosopher', serif;
+    color: rgb(0, 100, 132);
+}
+
+.text_cell_render h5 {
+    font-family: 'Philosopher', serif;
+    margin-top:6px;
+    margin-bottom: 2px;
+    color: rgb(0, 100, 132);
+    font-style: italic;
+    display: block;
+}
+
+.text_cell_render h6 {
+    font-family: 'PT Mono', serif;
+    font-weight: 300;
+    font-size: 10pt;
+    color: grey;
+    margin-bottom: 1px;
+    margin-top: 1px;
+}
+
+.text_cell_render em {
+    font-family: 'Philosopher', serif;
+    background-color: rgb(220,235,240);
+    font-size:    110%;
+    margin-left:   2px;
+    margin-right:  2px;
+    font-weight:   100;
+    font-style: normal;
+}
+
+.text_cell_render b {
+    font-family: 'Philosopher', serif;
+    color:            rgb(255,195,195);
+    font-size:    110%;
+    margin-left:   2px;
+    margin-right:  2px;
+    font-weight:   650;
+}
+
+.text_cell_render tt {
+    background-color: rgb(235,235,235);
+    font-size:    120%;
+    margin-left:   2px;
+    margin-right:  2px;
+    font-weight:   150;
+}
+
+.Codemirror {
+    font-family: "PT Mono";
+    font-size: 100%;
+}
+
+</style>
+
