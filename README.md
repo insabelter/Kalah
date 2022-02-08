@@ -1,20 +1,16 @@
-# Studienarbeit - Entwicklung einer KI für das Brett-Spiel Kalah
+# Student Paper - Development of an AI for the board game Kalah
 
-Das Spiel Kalah ist ein Brettspiel. Das Ziel der Arbeit besteht in der Implemtierung einer künstlichen Intelligenz, die das Spiel Kalah spielen kann. Das Spiel soll mit Hilfe der Sprache Python implementiert werden. Die grafische Oberfläche soll mit Hilfe mit [ipycanvas](https://ipycanvas.readthedocs.io/en/latest/) gestaltet werden. 
+The purpose of this paper is to implement an artificial intelligence which is able to play the game Kalah. The game is developed using the programming language Python. The graphical user interface is created with the use of the [ipycanvas](https://ipycanvas.readthedocs.io/en/latest/) library.
 
-## Getting started
+## Notebook structure
 
-### erstes Mal
+### 1. Classes
+This notebook contains an introduction and the game with all its classes.
 
-Zunächst sollte das Projekt geklont werden. etc.  
+### 2. Bibliography
+This notebook contains our used sources.
 
-### Spielen
-Das Kalah-Spiel kann über das Notebook `Kalah_Game.ipynb` gestartet werden. (folgt noch)
+In the future, a notebook for direct gameplay will be added.
 
-### Lesen und Verstehen
-Zum Nachvollziehen der Anwendung ist das Durcharbeiten in folgender Reihenfolge sinnvoll:
-
-1. `Classes.ipynb`
-2. ...
 
 
