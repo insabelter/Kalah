@@ -20,10 +20,10 @@ In this notebook a game against an AI can be played.
 This notebook is used for testing the functions from Core. 
 
 ### 6. AIComparisons
-This notebook contains analyses of the different AI's regarding games between same and different AI's, computation time and node inspections. 
+This notebook contains analyses of the different AI's regarding games between different AI's, computation time and node inspections. 
 
 ### 7. Bibliography
-This notebook contains our used sources.
+This notebook contains the used sources.
 
 
 
